@@ -3,7 +3,7 @@ layout: post
 title: First Post in my Blog!
 categories: None
 
-use_math: true
+use_math : true
 ---
 
 $$
